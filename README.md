@@ -1,5 +1,10 @@
 # AWSSnowFlake
 
+Reference: https://www.youtube.com/watch?v=zc61fvbmSoc&list=WL&index=61
+
+## Architecture Defined
+
+## Servives Used
 
 ## Architecture Break Down
 
