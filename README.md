@@ -6,6 +6,16 @@ Reference: https://www.youtube.com/watch?v=zc61fvbmSoc&list=WL&index=61
 
 ## Servives Used
 
+DynamoDB - NoSQL database with key system > https://docs.aws.amazon.com/lambda/latest/dg/with-ddb-example.html
+
+Lambda - Run code serverless > https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+
+AWS S3 - Object storage service for storing data > https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
+
+IAM - Grant permissions to AWS accounts > https://docs.aws.amazon.com/Monitron/latest/user-guide/security_iam_authentication-iamrole.html
+
+SnowFlake - Get insights on your data > https://www.snowflake.com/en/why-snowflake/
+
 ## Architecture Break Down
 
 1. Search DynamoDB > Create table > Create table name as api name
